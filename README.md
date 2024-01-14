@@ -1,4 +1,4 @@
-### HELLOthere 👋
+### HELLO there 👋
 
 <!--
 **ARN089-main/ARN089-main** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
