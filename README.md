@@ -5,6 +5,11 @@ I am a passionate B.Tech Computer Science student at JK Lakshmipat University, d
 
 ![ARN089-main's Stats](https://github-readme-stats.vercel.app/api?username=ARN089-main&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+## 🏆 TryHackMe Badge
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/arn089.png" alt="TryHackMe Badge" />
+
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
