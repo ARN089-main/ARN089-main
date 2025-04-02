@@ -11,7 +11,7 @@ I am a passionate B.Tech Computer Science student at JK Lakshmipat University, d
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,bash,git,github,ai,kali,linux,php,sublime,ubuntu)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
