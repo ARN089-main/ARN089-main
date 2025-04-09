@@ -9,6 +9,7 @@ I am a passionate B.Tech Computer Science student at JK Lakshmipat University, d
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/arn089.png" alt="Your Image Badge" />
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4267672)](https://tryhackme.com/p/arn089)
 
 
 
