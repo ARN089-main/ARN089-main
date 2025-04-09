@@ -3,13 +3,15 @@
 
 I am a passionate B.Tech Computer Science student at JK Lakshmipat University, driven by a deep curiosity for technology. My journey in computer science has led me to explore various domains, ultimately sparking a strong interest in cybersecurity. I am eager to transition into this field, aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills to safeguard digital assets and combat cyber threats.
 
+
+
 ![ARN089-main's Stats](https://github-readme-stats.vercel.app/api?username=ARN089-main&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🏆 TryHackMe Badge
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/arn089.png" alt="Your Image Badge" />
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4267672)](https://tryhackme.com/p/arn089)
 
 
 
